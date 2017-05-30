@@ -1,0 +1,30 @@
+p.description > span.qualifier {
+	color: black;	
+	font-size: 200px;	
+}
+
+p.description > span.qualified {
+	color: rebeccapurple;
+	font-size: 200px;
+}
+
+p.timer span {
+	color: black;
+	font-size: 100px;
+}
+
+p.timer span.days {
+	color: red;	
+}
+
+p.timer span.hours {
+	color: red;	
+}
+
+p.timer span.minutes {
+	color: red;	
+}
+
+p.timer span.seconds {
+	color: red;	
+}

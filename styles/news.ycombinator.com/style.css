@@ -1,3 +1,29 @@
+/*
 #hnmain > tbody > tr:first-child > td {
-	background-color: #000000
+	background-color: #000000;
+}
+*/
+
+body {
+	background-color: #000000;
+}
+
+#hnmain {
+	background-color: #000000;
+}
+
+td.title > a {
+	color: #ffffff;
+}
+
+.yclinks > a:link {
+	color: #ffffff;
+}
+
+/*.c00, .c00 a:link {
+	color: #ffffff;
+}*/
+
+.comment > span {
+	color: #ffffff;
 }

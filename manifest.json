@@ -9,6 +9,10 @@
 		{
 			"matches": ["https://news.ycombinator.com/*"],
 			"css": ["styles/news.ycombinator.com/style.css"]
+		},
+		{
+			"matches": ["http://itsalmo.st/*"],
+			"css": ["styles/itsalmo.st/style.css"]
 		}
 	]  
 }
