@@ -6,6 +6,8 @@ p.description > span.qualifier {
 p.description > span.qualified {
 	color: rebeccapurple;
 	font-size: 200px;
+	line-height: 120%;
+	white-space: nowrap;
 }
 
 p.timer span {
